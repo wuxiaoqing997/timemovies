@@ -1,0 +1,802 @@
+[
+  {
+    "name": "肖申克的救赎",
+    "score": "9.2",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Shawshank Redemption"
+  },
+  {
+    "name": "盗梦空间",
+    "score": "9.1",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Inception"
+  },
+  {
+    "name": "阿甘正传",
+    "score": "9.1",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Forrest Gump"
+  },
+  {
+    "name": "辛德勒的名单",
+    "score": "9.1",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Schindler's List"
+  },
+  {
+    "name": "教父",
+    "score": "9.1",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Godfather"
+  },
+  {
+    "name": "海豚湾",
+    "score": "9.1",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Cove"
+  },
+  {
+    "name": "机器人总动员",
+    "score": "9.0",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "WALL·E"
+  },
+  {
+    "name": "这个杀手不太冷",
+    "score": "9.0",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Léon"
+  },
+  {
+    "name": "霸王别姬",
+    "score": "9.0",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Farewell My Concubine"
+  },
+  {
+    "name": "天堂电影院",
+    "score": "9.0",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Nuovo cinema Paradiso"
+  },
+  {
+    "name": "乱世佳人",
+    "score": "9.0",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Gone with the Wind"
+  },
+  {
+    "name": "十二怒汉",
+    "score": "9.0",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "12 Angry Men"
+  },
+  {
+    "name": "泰坦尼克号",
+    "score": "8.9",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Titanic"
+  },
+  {
+    "name": "搏击俱乐部",
+    "score": "8.9",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Fight Club"
+  },
+  {
+    "name": "美国往事",
+    "score": "8.9",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Once Upon a Time in America"
+  },
+  {
+    "name": "教父2",
+    "score": "8.9",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Godfather: Part II"
+  },
+  {
+    "name": "海洋",
+    "score": "8.9",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Océans"
+  },
+  {
+    "name": "七武士",
+    "score": "8.9",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Seven Samurai"
+  },
+  {
+    "name": "阿凡达",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Avatar"
+  },
+  {
+    "name": "海上钢琴师",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Legend of 1900"
+  },
+  {
+    "name": "三傻大闹宝莱坞",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Three Idiots"
+  },
+  {
+    "name": "蝙蝠侠：黑暗骑士崛起",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Dark Knight Rises"
+  },
+  {
+    "name": "星际穿越",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Interstellar"
+  },
+  {
+    "name": "少年派的奇幻漂流",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Life of Pi"
+  },
+  {
+    "name": "玛丽和马克思",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Mary and Max"
+  },
+  {
+    "name": "忠犬八公的故事",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Hachi"
+  },
+  {
+    "name": "迈克尔·杰克逊：就是这样",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "This Is It"
+  },
+  {
+    "name": "暴力云与送子鹳",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Partly Cloudy"
+  },
+  {
+    "name": "完美的世界",
+    "score": "8.8",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "A Perfect World"
+  },
+  {
+    "name": "蝙蝠侠：黑暗骑士",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Dark Knight"
+  },
+  {
+    "name": "魔戒首部曲：魔戒现身",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  {
+    "name": "放牛班的春天",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Les Choristes"
+  },
+  {
+    "name": "闻香识女人",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Scent of a Woman"
+  },
+  {
+    "name": "狮子王",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Lion King"
+  },
+  {
+    "name": "龙猫",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "My Neighbor Totoro"
+  },
+  {
+    "name": "罗马假日",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Roman Holiday"
+  },
+  {
+    "name": "天空之城",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Laputa: Castle in the Sky"
+  },
+  {
+    "name": "飞越疯人院",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "One Flew Over the Cuckoo's Nest"
+  },
+  {
+    "name": "鬼子来了",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Devils on the Doorstep"
+  },
+  {
+    "name": "音乐之声",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Sound of Music"
+  },
+  {
+    "name": "一一",
+    "score": "8.7",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Yi yi: A One and a Two"
+  },
+  {
+    "name": "飞屋环游记",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Up"
+  },
+  {
+    "name": "天使爱美丽",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Amelie"
+  },
+  {
+    "name": "魔戒二部曲：双塔奇兵",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Lord of the Rings: The Two Towers"
+  },
+  {
+    "name": "低俗小说",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Pulp Fiction"
+  },
+  {
+    "name": "玩具总动员3",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Toy Story 3"
+  },
+  {
+    "name": "怦然心动",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Flipped"
+  },
+  {
+    "name": "情书",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Love Letter"
+  },
+  {
+    "name": "疯狂动物城",
+    "score": "",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Zootopia"
+  },
+  {
+    "name": "钢琴家",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Pianist"
+  },
+  {
+    "name": "两杆大烟枪",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Lock, Stock and Two Smoking Barrels"
+  },
+  {
+    "name": "死亡诗社",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Dead Poets Society"
+  },
+  {
+    "name": "活着",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "To Live"
+  },
+  {
+    "name": "幽灵公主",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Princess Mononoke"
+  },
+  {
+    "name": "杀人回忆",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Memories of Murder"
+  },
+  {
+    "name": "无法触碰",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Intouchables"
+  },
+  {
+    "name": "摔跤吧！爸爸",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Dangal"
+  },
+  {
+    "name": "梦之安魂曲",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Requiem for a Dream"
+  },
+  {
+    "name": "被嫌弃的松子的一生",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Memories of Matsuko"
+  },
+  {
+    "name": "一次别离",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "A Separation"
+  },
+  {
+    "name": "与狼共舞",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Dances with Wolves"
+  },
+  {
+    "name": "熔炉",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Silenced"
+  },
+  {
+    "name": "罗生门",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Rashômon"
+  },
+  {
+    "name": "卡萨布兰卡",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Casablanca"
+  },
+  {
+    "name": "惊魂记",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Psycho"
+  },
+  {
+    "name": "虎口脱险",
+    "score": "8.6",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "La Grande vadrouille"
+  },
+  {
+    "name": "美丽人生",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "La Vita e bella"
+  },
+  {
+    "name": "让子弹飞",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Let The Bullets Fly"
+  },
+  {
+    "name": "当幸福来敲门",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Pursuit of Happyness"
+  },
+  {
+    "name": "剪刀手爱德华",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Edward Scissorhands"
+  },
+  {
+    "name": "本杰明·巴顿奇事",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Curious Case of Benjamin Button"
+  },
+  {
+    "name": "七宗罪",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Se7en"
+  },
+  {
+    "name": "勇敢的心",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Braveheart"
+  },
+  {
+    "name": "无间道",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Infernal Affairs"
+  },
+  {
+    "name": "楚门的世界",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Truman Show"
+  },
+  {
+    "name": "哈利·波特与死亡圣器(下)",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Harry Potter and the Deathly Hallows: Part 2"
+  },
+  {
+    "name": "黑天鹅",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Black Swan"
+  },
+  {
+    "name": "驯龙高手",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "How to Train Your Dragon"
+  },
+  {
+    "name": "大鱼",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Big Fish"
+  },
+  {
+    "name": "沉默的羔羊",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Silence of the Lambs"
+  },
+  {
+    "name": "V字仇杀队",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "V for Vendetta"
+  },
+  {
+    "name": "美丽心灵",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "A Beautiful Mind"
+  },
+  {
+    "name": "被解救的姜戈",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Django Unchained"
+  },
+  {
+    "name": "告白",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Confessions"
+  },
+  {
+    "name": "燃情岁月",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Legends of the Fall"
+  },
+  {
+    "name": "无敌破坏王",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Wreck-It Ralph"
+  },
+  {
+    "name": "阳光灿烂的日子",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "In the Heat of the Sun"
+  },
+  {
+    "name": "上帝之城",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "City of God"
+  },
+  {
+    "name": "窃听风暴",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Das Leben der Anderen"
+  },
+  {
+    "name": "荒野生存",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Into the Wild"
+  },
+  {
+    "name": "春光乍泄",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Happy Together"
+  },
+  {
+    "name": "绿里奇迹",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "The Green Mile"
+  },
+  {
+    "name": "碧海蓝天",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Le Grand Bleu"
+  },
+  {
+    "name": "出租车司机",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Taxi Driver"
+  },
+  {
+    "name": "爱在日落黄昏时",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Before Sunset"
+  },
+  {
+    "name": "爱在黎明破晓前",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Before Sunrise"
+  },
+  {
+    "name": "风之谷",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Nausicaä of the Valley of the Winds"
+  },
+  {
+    "name": "饮食男女",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Eat Drink Man Woman"
+  },
+  {
+    "name": "爆裂鼓手",
+    "score": "",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Whiplash"
+  },
+  {
+    "name": "勇士",
+    "score": "8.5",
+    "type": "",
+    "ranking": 0,
+    "coverUrl": "",
+    "otherNames": "Warrior"
+  }
+]
